@@ -83,7 +83,7 @@ div.emergency p a {
 
 ## 感谢
 
-本指南修改自[重文理手册](https://sustech.online)
+本指南修改自[南科手册](https://sustech.online)
 
 ## 版权信息
 
