@@ -85,6 +85,9 @@ module.exports = {
             appId: 'RTX1TWDDDC',
             apiKey: '8e1e1d3b8be2ff87e4a1fc78200cbe28',
             indexName: 'cqwu-wiki-keys',
+            searchParameters: {
+                attributesToSnippet: ["lvl1:30", "content:25"],
+            },
             locales: {
                 '/': {
                     placeholder: '搜索手册',
