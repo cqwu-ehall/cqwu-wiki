@@ -82,9 +82,9 @@ module.exports = {
         //     },
         // ],
         docsearchPlugin({
-            appId: '6KECEJUGJH',
-            apiKey: '9a5c8aa7cb2d5d32ebd66790e1a84789',
-            indexName: 'sustech-online-keys',
+            appId: 'RTX1TWDDDC',
+            apiKey: '8e1e1d3b8be2ff87e4a1fc78200cbe28',
+            indexName: 'cqwu-wiki-keys',
             locales: {
                 '/': {
                     placeholder: '搜索手册',
@@ -169,6 +169,7 @@ module.exports = {
         sidebarDepth: 2,
         sidebar: [
             '/',
+            '/news/',
             '/facility/',
             '/contact/',
             '/download/',

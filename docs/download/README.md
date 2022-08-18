@@ -12,3 +12,8 @@
 - [重庆文理学院学生证补办申请表](https://jxb.cqwu.edu.cn/SITE_RES/jxb_cqwu_edu_cn/upload/file/20180508/1525789411197056346.docx)
 - [学生手册（2021年版）](https://xgb.cqwu.edu.cn/SITE_ATTACHE/xgbt_cqwu_net/2022-03-08/upload/file/20220308/mqYI_1646725041323029286.pdf)
 - [五四评优相关审批表](https://xgb.cqwu.edu.cn/SITE_ATTACHE/xgbt_cqwu_net/2021-03-25//upload/file/20210325/1616658939552053384.doc)
+- [重庆文理学院“第二课堂”成绩单学分认定实施办法的通知](https://cqwu.wiki/files/%E9%87%8D%E5%BA%86%E6%96%87%E7%90%86%E5%AD%A6%E9%99%A2%E2%80%9C%E7%AC%AC%E4%BA%8C%E8%AF%BE%E5%A0%82%E6%88%90%E7%BB%A9%E5%8D%95%E2%80%9D%E5%AD%A6%E5%88%86%E8%AE%A4%E5%AE%9A%E5%AE%9E%E6%96%BD%E5%8A%9E%E6%B3%95.pdf)
+- [重庆文理学院“第二课堂成绩单”学分认定实施办法（补充说明）](https://cqwu.wiki/files/%E9%87%8D%E5%BA%86%E6%96%87%E7%90%86%E5%AD%A6%E9%99%A2%E2%80%9C%E7%AC%AC%E4%BA%8C%E8%AF%BE%E5%A0%82%E6%88%90%E7%BB%A9%E5%8D%95%E2%80%9D%E5%AD%A6%E5%88%86%E8%AE%A4%E5%AE%9A%E5%AE%9E%E6%96%BD%E5%8A%9E%E6%B3%95%EF%BC%88%E8%A1%A5%E5%85%85%E8%AF%B4%E6%98%8E%EF%BC%89.pdf)
+- [第二课堂使用手册（学生）](https://cqwu.wiki/files/%E7%AC%AC%E4%BA%8C%E8%AF%BE%E5%A0%82%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20%EF%BC%88%E5%AD%A6%E7%94%9F%EF%BC%89.docx)
+- [重庆文理学院学生请假单](https://cqwu.wiki/files/%E9%87%8D%E5%BA%86%E6%96%87%E7%90%86%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E8%AF%B7%E5%81%87%E5%8D%95.doc)
+- [重庆文理学院学生军训请假申请表](https://cqwu.wiki/files/%E9%87%8D%E5%BA%86%E6%96%87%E7%90%86%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E5%86%9B%E8%AE%AD%E8%AF%B7%E5%81%87%E7%94%B3%E8%AF%B7%E8%A1%A8.doc)

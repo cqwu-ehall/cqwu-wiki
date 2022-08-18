@@ -36,6 +36,7 @@
     <ul>
     <li><a href="https://720yun.com/t/b70jt54ksk6?scene_id=15601132">校园街景</a></li>
     <li><a href="http://wsjkw.cq.gov.cn/ztzl_242/qlzhxxgzbdfyyqfkgz/fyfw/hsjcd/202202/t20220222_10423464.html">重庆市内核酸点查询</a></li>
+    <li><a href="http://app.21jingji.com/html/2020yiqing/">全国疫情高中低风险地区查询</a></li>
     </ul>
     </th>
     <th class="tg-0lax">
@@ -76,6 +77,10 @@ div.emergency p a {
   word-break: normal;
 }
 </style>
+
+## 关注校园通知公告 <Badge text="推荐" type="tip"/>
+
+你可以通过 [🔊最新通知公告](./news)，了解校园最新消息！
 
 ## 如果你是新生... <Badge text="快速指南" type="tip"/>
 
