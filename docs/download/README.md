@@ -17,3 +17,4 @@
 - [第二课堂使用手册（学生）](https://cqwu.wiki/files/%E7%AC%AC%E4%BA%8C%E8%AF%BE%E5%A0%82%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20%EF%BC%88%E5%AD%A6%E7%94%9F%EF%BC%89.docx)
 - [重庆文理学院学生请假单](https://cqwu.wiki/files/%E9%87%8D%E5%BA%86%E6%96%87%E7%90%86%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E8%AF%B7%E5%81%87%E5%8D%95.doc)
 - [重庆文理学院学生军训请假申请表](https://cqwu.wiki/files/%E9%87%8D%E5%BA%86%E6%96%87%E7%90%86%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E5%86%9B%E8%AE%AD%E8%AF%B7%E5%81%87%E7%94%B3%E8%AF%B7%E8%A1%A8.doc)
+- [疫防2022第19号_关于调整2022年秋季学期师生开学报到的通知](https://cqwu.wiki/files/%E7%96%AB%E9%98%B22022%E7%AC%AC19%E5%8F%B7_%E5%85%B3%E4%BA%8E%E8%B0%83%E6%95%B42022%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%B8%88%E7%94%9F%E5%BC%80%E5%AD%A6%E6%8A%A5%E5%88%B0%E7%9A%84%E9%80%9A%E7%9F%A5.pdf)
